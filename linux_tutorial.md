@@ -1,7 +1,7 @@
 ## Linux Workaround
 In this tutorial, you'll learn how to easily run SkEditorPlus on Linux by utilizing Wine and Bottles.
 
-NOTE: This workaround is not official, its not supported by SkEditorPlus.
+NOTE: This workaround is not official and its not supported by SkEditorPlus.
 
 ---
 
@@ -15,7 +15,7 @@ NOTE: This workaround is not official, its not supported by SkEditorPlus.
 3. In the Bottles Settings tab set DXVK & VKD3D to Disabled.
 
 <img src="https://user-images.githubusercontent.com/79372025/230181066-5e0e367b-334d-48b2-9d7e-c7fbdb7290ad.png" width=40% height=40%>
-4. In the Bottles Dependencies tab, install "dotnetcoredesktop6".
+4. In the Bottles Dependencies install "dotnetcoredesktop6".
 
 <img src="https://user-images.githubusercontent.com/79372025/230181452-2db81d0d-edcb-49db-9487-d735870cb19f.png" width=40% height=40%>
 5. You can start `SkEditorPlus.exe` using the "Run Executable" Button.
